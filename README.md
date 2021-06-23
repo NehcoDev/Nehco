@@ -5,6 +5,8 @@
 - 📫 How to reach me: [My discord](https://discord.com/invite/ZxVtUNAeCC)
 - ⚡ Fun fact : I am a boy XD
 - 🌙 Eleven Soon
+So : 
+- I’m currently working on Eleven
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='33'>](https://github.com/NehcoDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='33'>]  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='33'>](https://www.youtube.com/channel/UCcL6du-DasI2LjtyalkWXPA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='33'>](https://www.reddit.com/user/https://www.reddit.com/user/NeoStoffyn)  
