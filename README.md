@@ -6,7 +6,7 @@
 - ⚡ Fun fact : I am a boy XD
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='33'>](https://github.com/NehcoDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='33'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16261630/p%c3%a9%c3%a8lo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='33'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCGXmeRqCm7aXbS27wMg52fg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='33'>](https://www.reddit.com/user/https://www.reddit.com/user/NeoStoffyn)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='33'>](https://github.com/NehcoDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='33'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16261630/p%c3%a9%c3%a8lo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='33'>](https://www.youtube.com/channel/UCcL6du-DasI2LjtyalkWXPA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='33'>](https://www.reddit.com/user/https://www.reddit.com/user/NeoStoffyn)  
 
 
 ### My skills
@@ -22,7 +22,7 @@
 
 <br></br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoStoffyn&theme=react&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NehcoDev&theme=react&show_icons=true)
 
 
 
