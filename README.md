@@ -2,7 +2,7 @@
    <h1>Nehco's github 👹</h1>
 </div>
 
-<h3 align="center">Self-educated backend developer</h3>
+<h3 align="center">I am not a developer </h3>
 <br/>
 
 ---
